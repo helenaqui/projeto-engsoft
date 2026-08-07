@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Meu Primeiro Projeto</title>
+</head>
+<body>
+
+    <h1>Meu primeiro projeto no GitHub</h1>
+
+    <p>
+        Projeto desenvolvido para a atividade de Engenharia de Software.
+    </p>
+
+</body>
+</html>
